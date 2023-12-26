@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @0x-Eclipse
+- 👾 My Discord: skala_aka
 - ⚙️ Job: Unreal engine 4/5 Godot 4
 - 📚 Knowledge: С#/С++ GDSkript
 - 💞 I love GameDev 
